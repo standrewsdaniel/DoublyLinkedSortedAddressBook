@@ -8,3 +8,6 @@ An AddressBook is comprised of contact objects, and it acts as a way to implemen
 The AddressBook has functionality that includes searching, returning addressbooks of those with the same last name or area code, as well as deleting and inserting while maintaining a sorted list.
 
 The list is indexed on print.
+
+
+Project specifications are contained in assignment3.pdf
